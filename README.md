@@ -4,7 +4,7 @@
 
 ## Dependencies
 
-The node is tested with Node.js v18 and Node-RED v3.
+The bundle is tested with Node.js v18 and Node-RED v3.
 
 ## License
 
