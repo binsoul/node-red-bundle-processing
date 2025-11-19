@@ -1,12 +1,12 @@
 import type { Node, NodeAPI } from '@node-red/registry';
 import type { NodeMessage, NodeMessageInFlow } from 'node-red';
-import type { Action } from './Action';
-import type { ActionFactory } from './ActionFactory';
-import { Input } from './Input';
-import type { InputDefinition, InputValueDefinition } from './InputDefinition';
-import type { Message } from './Message';
-import type { Output } from './Output';
-import type { OutputDefinition, OutputValueDefinition } from './OutputDefinition';
+import type { Action } from './Action.js';
+import type { ActionFactory } from './ActionFactory.js';
+import { Input } from './Input.js';
+import type { InputDefinition, InputValueDefinition } from './InputDefinition.js';
+import type { Message } from './Message.js';
+import type { Output } from './Output.js';
+import type { OutputDefinition, OutputValueDefinition } from './OutputDefinition.js';
 
 /**
  * Adds the "send" and "done" functions to a {@link Message}.

@@ -1,4 +1,4 @@
-import type { Message } from './Message';
+import type { Message } from './Message.js';
 
 /**
  * Contains all resolved input values for an {@link Action}.
