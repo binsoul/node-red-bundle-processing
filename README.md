@@ -82,6 +82,7 @@ const nodeInitializer: NodeInitializer = (RED): void => {
 
 export = nodeInitializer;
 ```
+
 ## Dependencies
 
 The bundle is tested with Node.js v18 and Node-RED v3.
